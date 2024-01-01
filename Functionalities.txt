@@ -1,0 +1,6 @@
+1. Admin can create their own link such that when a user hit that link 
+   user will redirect to  the specified url provided by the Admin 
+2. Plans 2 types - free upto 1000 hits -upto 10 links only  (then expires)
+                 - paid unlimited hits - unlimited 
+3.  Admin can have dashboard - where he can create the links 
+4. For each specified link we can check the analytics . 
